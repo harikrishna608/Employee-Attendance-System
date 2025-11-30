@@ -1,10 +1,7 @@
 <div align="center">
   <br />
     <a href="#" target="_blank">
-      <img src="./nonRelatedAssets/preview.png" alt="Employee Attendance System,
-        Tippuluri HariKrishna Reddy,
-        College: Rise krishna sai gandhi group of institutions,
-        ph.no:9912591155">
+      <img src="./nonRelatedAssets/preview.png" alt="Employee Attendance System">
     </a>
   <br />
 
